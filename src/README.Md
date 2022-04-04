@@ -1,0 +1,2 @@
+Static webpage that uses the Star Wars API at swapi.dev to retrieve information about planets from the series
+Created to gain more familiarity with react, react-router, and the async/await pattern for promise handling
