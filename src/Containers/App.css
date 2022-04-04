@@ -1,0 +1,56 @@
+body {
+  background-image: url("../Assets/Styling/star-bg.jpg");
+}
+
+.App {
+  text-align: center
+}
+
+@font-face {
+  font-family: 'starjedi';
+  font-style: normal;
+  font-weight: normal;
+  src: local('starjedi'), url('../Assets/Styling/Starjedi.ttf') format('woff');
+}
+
+h1 {
+  font-family: 'starjedi';
+  color:silver;
+}
+
+.title {
+  color:gold;
+  font-size:4rem;
+}
+
+.cards {
+  background-color: #7E7863;
+  width: 24rem;
+  height: 28rem;
+}
+
+.planetsearch {
+  height: 4rem;
+  width: 50%;
+  font-size: 1.5rem;
+}
+
+.planetmodal .modal-content {
+  background-color: #7E7863;
+}
+
+.info {
+  color:gold;
+}
+
+.modal-header {
+  height: 5em;
+}
+
+li {
+  color:silver;
+}
+
+.cardList {
+  background-image: './Assets/Styling/star-bg.jpg';
+}
